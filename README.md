@@ -13,6 +13,6 @@ PowerPatient is a web-based application designed to manage patient data efficien
 
 ## Technologies Used
 PowerPatient is built using modern web development technologies including:
-- **Frontend**: HTML, CSS (Bootstrap), JavaScript.
+- **Frontend**: HTML, CSS (Bootstrap), SCSS,JavaScript.
 - **Backend**: PHP
 - **Database**: MySQL
